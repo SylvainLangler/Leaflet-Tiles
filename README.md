@@ -2,7 +2,7 @@
 
 #### Dépot réalisé grâce à [celui-ci](https://github.com/Fedik/php-maptiler)
 
-# Besoins
+# Nécessaire
 
 ### Extension php imagick
 
