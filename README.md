@@ -6,7 +6,7 @@
 
 ### Extension php imagick
 
-### LeafletJS
+### [LeafletJS](https://leafletjs.com/)
 
 # Utilisations
 
